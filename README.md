@@ -26,3 +26,27 @@ Step-by-Step instructions
 7. Summary
 
 
+   LINUX file permissions
+Project description
+The team working on research at my company needs to adjust the access rights, for files and folders in the projects folder. The current permissions don't match the required level of authorization. Verifying and modifying these permissions is essential, for maintaining the security of their system. I carried out the following actions to address this issue:
+
+Step-by-Step instructions
+1. Check file and directory details
+   
+2. Current file permissions
+   
+3. Describe the permissions string
+   
+4. Change file permissions: The organization determined that other shouldn't have write access to any of their files. To
+   comply with this, I referred to the file permissions that I previously returned. I determined project_k.txt must have the write    access removed for other.
+   
+5. Change file permissions on a hidden file: The research team at my organization recently archived project_x.txt. They do not want
+   anyone to have write access to this project, but the user and group should have read access.
+
+6. Change directory permissions: My organization only wants the researcher2 user to have access to the drafts directory
+   and its contents. This means that no one other than researcher2 should have execute permissions.
+
+7. Summary
+
+
+
